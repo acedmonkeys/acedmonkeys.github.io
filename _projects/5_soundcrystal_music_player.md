@@ -11,6 +11,6 @@ For the team's full journey, visit our dedicated [project website](http://poe.ol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CbOfsQfKXeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a target="_blank" href="/imgs/poe_1.jpg"><img src="/imgs/poe_1.jpg"></a>
-<a target="_blank" href="/imgs/poe_2.jpg"><img src="/imgs/poe_2.jpg"></a>
+<a target="_blank" href="/imgs/poe_1.jpg"><img src="/imgs/poe_1.JPG"></a>
+<a target="_blank" href="/imgs/poe_2.jpg"><img src="/imgs/poe_2.JPG"></a>
 <a target="_blank" href="/imgs/poe_3.jpg"><img src="/imgs/poe_3.jpg"></a>
