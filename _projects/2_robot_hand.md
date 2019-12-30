@@ -9,6 +9,6 @@ testing testing 123
 
 <a target="_blank" href="/imgs/dfm_full_assembly.jpg"><img src="/imgs/dfm_full_assembly.jpg"></a>
 <a target="_blank" href="/imgs/dfm_unassembled.jpg"><img src="/imgs/dfm_unassembled.jpg"></a>
-<a target="_blank" href="/imgs/dfm_housing.jpg"><img src="/imgs/dfm_housing.jpg"></a>
+<a target="_blank" href="/imgs/dfm_housing.png"><img src="/imgs/dfm_housing.png"></a>
 
 some more text here
