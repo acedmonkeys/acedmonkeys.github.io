@@ -3,6 +3,8 @@ collections:
     output: true
   projects:
     output: true
+  imgs:
+    output: true
 
 defaults:
   - scope:
