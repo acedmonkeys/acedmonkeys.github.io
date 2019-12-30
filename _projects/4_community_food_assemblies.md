@@ -5,8 +5,6 @@ institution: Olin College of Engineering
 ---
 testing testing 123
 
-
-
 <a target="_blank" href="/imgs/uocd_project_poster.png"><img src="/imgs/uocd_project_poster.png"></a>
 <a target="_blank" href="/imgs/uocd_requirements.png"><img src="/imgs/uocd_requirements.png"></a>
 <a target="_blank" href="/imgs/uocd_specifications.png"><img src="/imgs/uocd_specifications.png"></a>
