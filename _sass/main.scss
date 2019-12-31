@@ -23,7 +23,7 @@ a:hover:not(.current), a:active:not(.current) {
 nav{
   overflow: hidden;
   width: auto;
-  min-width: 730px;
+  min-width: 750px;
 }
 
 nav a{
@@ -43,6 +43,10 @@ nav a{
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.courses{
+  font-size: 24px;
 }
 
 .timeframe{
@@ -85,7 +89,7 @@ nav a{
 body {
   margin: 25px 75px 0px 75px;
   width: auto;
-  min-width: 730px;
+  min-width: 750px;
   font-family: Lato;
 }
 
