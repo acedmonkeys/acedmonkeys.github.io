@@ -9,34 +9,41 @@ a:hover:not(.current), a:active:not(.current) {
   color: red;
   text-decoration: none;
 }
-
+/* navbar links*/
 .current {
   color: red;
   text-decoration: none;
 }
 
+/*NAVBAR*/
 .header{
   font-size: 36px;
 }
 
 nav{
   overflow: hidden;
-  width: 550px;
+  width: 600px;
 }
 
 nav a{
-  padding: 8px;
+  padding: 10px;
   font-size: 18px;
   font-weight: lighter;
 }
 
+.right-align {
+  padding: 5px;
+  padding-top: 22px;
+  float: right;
+}
+
 body {
-  margin: 10px 25px 0px 25px;
+  margin: 25px 75px 0px 75px;
   font-family: Lato;
 }
 
 .main {
-  padding: 8px;
+  padding: 10px;
 }
 
 img {
