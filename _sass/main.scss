@@ -22,7 +22,8 @@ a:hover:not(.current), a:active:not(.current) {
 
 nav{
   overflow: hidden;
-  width: 600px;
+  width: auto;
+  min-width: 730px;
 }
 
 nav a{
@@ -37,8 +38,11 @@ nav a{
   float: right;
 }
 
+/*MAIN BODY*/
 body {
   margin: 25px 75px 0px 75px;
+  width: auto;
+  min-width: 730px;
   font-family: Lato;
 }
 

@@ -1,12 +1,13 @@
 <nav>
   <h1>
-  <a href="index.html" class="header">MIRANDA LAO</a>
+  <a href="/index.html" class="header">MIRANDA LAO</a>
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}{% if item.name =="Resume" %}target="_blank"{% endif %}>
       {{ item.name }}
     </a>
   {% endfor %}
   <a target="_blank" href="https://www.instagram.com/mirdbirb/"><img class="right-align" src="/imgs/instagram.png" height="15" width="15"></a>
   <a target="_blank" href="https://github.com/acedmonkeys/acedmonkeys.github.io"><img class="right-align" src="/imgs/github.png" height="15" width="15"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/miranda-lao-b009a4154/"><img class="right-align" src="/imgs/linkedin.png" height="15" width="15"></a>
   </h1>
 </nav>
