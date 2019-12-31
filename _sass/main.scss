@@ -128,8 +128,9 @@ body {
 
 .posterboy{
   width: 240px;
+  height: 240px;
+  object-fit: contain;
   margin: 2px;
-  height: auto;
 }
 img {
   border-radius: 5px;
