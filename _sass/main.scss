@@ -1,9 +1,26 @@
-.current {
-  color: red;
+/* LINKS */
+/* unvisited link and visited linke should be the same */
+a:link:not(.current), a:visited:not(.current) {
+  color: black;
+  text-decoration: none;
 }
 
-body{
+a:hover:not(.current), a:active:not(.current) {
+  color: red;
+  text-decoration: none;
+}
+
+.current {
+  color: red;
+  text-decoration: none;
+}
+
+body {
   font-family: Lato;
+}
+
+nav a{
+  padding: 8px;
 }
 
 img {
