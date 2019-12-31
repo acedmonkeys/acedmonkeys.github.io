@@ -15,11 +15,27 @@ a:hover:not(.current), a:active:not(.current) {
   text-decoration: none;
 }
 
-body {
-  font-family: Lato;
+.header{
+  font-size: 36px;
+}
+
+nav{
+  overflow: hidden;
+  width: 550px;
 }
 
 nav a{
+  padding: 8px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+body {
+  margin: 10px 25px 0px 25px;
+  font-family: Lato;
+}
+
+.main {
   padding: 8px;
 }
 
