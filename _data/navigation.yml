@@ -1,8 +1,8 @@
 - name: About
   link: /about.html
-- name: Past Work
-  link: /past_work.html
-- name: Blog
-  link: /blog.html
+- name: Portfolio
+  link: /portfolio.html
 - name: Resume
   link: /imgs/Resume.pdf
+- name: Blog
+  link: /blog.html

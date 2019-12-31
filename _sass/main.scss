@@ -38,6 +38,49 @@ nav a{
   float: right;
 }
 
+/*PORTFOLIO*/
+.portfolio-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.timeframe{
+  font-weight: lighter;
+  color: #757575;
+  float: right;
+}
+
+.tab{
+  overflow: hidden;
+}
+
+.tab button {
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding-left: 0px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  background-color: white;
+  font-family: Lato;
+  text-align: left;
+  font-size: 32px;
+}
+
+.tab button:hover {
+  color: red;
+}
+
+.tab button.active {
+  color: red;
+}
+
+.tabcontent {
+  display: none;
+}
+
 /*MAIN BODY*/
 body {
   margin: 25px 75px 0px 75px;
@@ -48,6 +91,10 @@ body {
 
 .main {
   padding: 10px;
+}
+
+.lightfont{
+  font-weight: lighter;
 }
 
 img {

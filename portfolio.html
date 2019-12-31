@@ -1,0 +1,54 @@
+---
+layout: default
+title: Past Work
+---
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openWorkType(event, 'Projects')">Projects</button>
+  <button class="tablinks" onclick="openWorkType(event, 'Photography')">Photography</button>
+  <button class="tablinks" onclick="openWorkType(event, 'Artwork')">Artwork</button>
+</div>
+<hr>
+<!-- Tab content -->
+<div id="Projects" class="tabcontent">
+  <ul class="portfolio-list">
+    {% for project in site.projects %}
+      <li>
+        <h2><a class="lightfont" href="{{ project.url }}">{{ project.name }}</a><span class="timeframe">{{ project.time_frame }}</span> </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="Photography" class="tabcontent">
+  <p>lorem ipsum you know the drill</p>
+</div>
+
+<div id="Artwork" class="tabcontent">
+  <p>testing testing 123</p>
+</div>
+
+<script>
+  function openWorkType(evt, type) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(type).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+  // Get the element with id="defaultOpen" and click on it
+  document.getElementsByClassName('tablinks')[0].click();
+</script>
