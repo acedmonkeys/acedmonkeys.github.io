@@ -8,9 +8,9 @@ My Engineering Capstone project focuses on making early hearing health screening
 This is the launch year of the Early Hearing Health Screening project for the Global Health team, so much of the work we've performed so far is foundational. Our team focused on forming connections with existing organizations operating in this space, researching and investigating the technical components of current OAE technology, and finding an initial location to visit and eventually find partners in that area to deploy our product for the long-term.
 
 <div class="oohbaby">
-  <a target="_blank" href="/imgs/Poster1_GlobalHealth19.png"><img class="posterboy" src="/imgs/Poster1_GlobalHealth19.png"></a>
-  <a target="_blank" href="/imgs/Poster2_GlobalHealth19.png"><img class="posterboy" src="/imgs/Poster2_GlobalHealth19.png"></a>
-  <a target="_blank" href="/imgs/Poster3_GlobalHealth19.png"><img class="posterboy" src="/imgs/Poster3_GlobalHealth19.png"></a>
+  <img class="posterboy myImages" id="myImg" src="/imgs/Poster1_GlobalHealth19.png">
+  <img class="posterboy myImages" id="myImg" src="/imgs/Poster2_GlobalHealth19.png">
+  <img class="posterboy myImages" id="myImg" src="/imgs/Poster3_GlobalHealth19.png">
 </div>
 
 The first poster gives an overview of the issue we want to tackle, our key identified stakeholders, and a summary of existing OAE screening devices. We also want to highlight that an affordable hearing device alone is not going to eradicate early childhood hearing loss; it is an important first step, ideally occurring in the first month after birth as outlined by the Joint Committee on Infant Hearing (JCIH).
@@ -25,4 +25,4 @@ The following video gives an overview of our project and activities in our first
   <iframe width="560" height="315" margin="auto" src="https://www.youtube.com/embed/qWEvd5bEOks?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-If you have questions, comments, or specific interest in this project, please reach out through my email or to Elizabeth Johansen, our team advisor, at elizabeth_johansen@olin.edu.
+If you have questions, comments, or specific interest in this project, please reach out through my email or to Elizabeth Johansen, our team advisor, at <a target="_top" href="mailto:elizabeth_johansen@olin.edu"><span class="normalfont">elizabeth_johansen@olin.edu</span></a>.
