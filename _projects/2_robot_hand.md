@@ -25,8 +25,10 @@ The fingers of the hand are cast out of urethane rubber and ONYX. The urethane r
 
 The housing is a snap-fit shell and is easily removable, giving easy access to the electronics.
 
-Below is a video of an initial test run of our hand. 
+Below is a video of an initial test run of our hand.
 
 <div class="video">
   <iframe width="560" height="315" margin="auto" src="https://www.youtube.com/embed/0-3BCeAxWb4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+The CAD for this project was done in Autodesk Fusion 360.
