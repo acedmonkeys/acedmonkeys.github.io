@@ -1,5 +1,5 @@
 ---
-name: Fairness in Machine Learning - An Introduction Assignment
+name: Fairness in Machine Learning
 time_frame: Fall 2019
 institution: Olin College of Engineering
 ---
@@ -15,3 +15,5 @@ You can find the full assignment <a class="normalfont" target="_blank" href="/im
   <img class="quint_p myImages" id="myImg" src="/imgs/ml_4.png">
   <img class="quint_p myImages" id="myImg" src="/imgs/ml_5.png">
 </div>
+
+This assignment was designed for use in the next iteration of the Olin College Machine Learning course.
