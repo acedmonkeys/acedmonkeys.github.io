@@ -211,6 +211,7 @@ body {
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
+  padding-bottom: 100px;
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -223,9 +224,9 @@ body {
 /* Modal Content (image) */
 .modal-content {
   margin: auto;
+  margin-bottom: 200px;
   display: block;
-  width: 80%;
-  max-width: 750px;
+  max-width: 500px;
 }
 
 /* The Close Button */
