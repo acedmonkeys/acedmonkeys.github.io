@@ -4,9 +4,9 @@ time_frame: Fall 2016
 institution: Olin College of Engineering
 ---
 <div class="oohbaby">
-  <img class="triplet myImages" id="myImg" src="/imgs/desnat_hopper1.JPG">
-  <img class="triplet myImages" id="myImg" src="/imgs/desnat_hopper2.JPG">
-  <img class="triplet myImages" id="myImg" src="/imgs/desnat_hopper3.JPG">
+  <img class="triplet myImages" id="myImg" src="/imgs/desnat_hopper1.jpg">
+  <img class="triplet myImages" id="myImg" src="/imgs/desnat_hopper2.jpg">
+  <img class="triplet myImages" id="myImg" src="/imgs/desnat_hopper3.jpg">
 </div>
 
 My first project at Olin and the first project for Design Nature. This class emphasized drawing inspiration from nature. We were tasked with creating a hopping mechanism by studying the hopping bugs and insects we saw in the field (or in the woods behind our school). Our final hopper would have to use a similar hopping mechanism to a creature in nature, as well as have some sort of delay mechanism so that it would not hop immediately upon release. I based my hopper off of the springtail, and used a wound-up fishing line as my trigger which double as the antennae of a springtail in my final design.
