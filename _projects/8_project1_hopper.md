@@ -16,3 +16,5 @@ Some of my field sketches and final hopping toy can be seen in the images above.
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iNQ5FCQDqC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/8_play_project.html';"> < Previous Project</button>

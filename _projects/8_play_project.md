@@ -14,3 +14,5 @@ This was my final project for Design Nature. Our team of 4 created a play experi
 This final project was "graded" by our participants: reviewers said that they "learned a lot about spiders" and "had a lot of fun"!
 
 All props, mechanisms, and set pieces were designed and created by our team members.
+
+<button class="prev" onclick="window.location.href = '/projects/8_machine-gun-jetpack.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '8_project1_hopper.html';">Next Project > </button>

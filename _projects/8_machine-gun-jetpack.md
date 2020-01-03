@@ -14,3 +14,5 @@ A full outline of our project can be seen in our project poster below.
 <div class="oohbaby">
   <img class="myImages" id="myImg" width="750px" src="/imgs/modsim_poster.png">
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/8_color_sensor.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/8_play_project.html';">Next Project > </button>

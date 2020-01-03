@@ -10,3 +10,5 @@ We used MATLAB to model our equations and to generate our graphs. The following 
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JdPywxd1NAc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/5_soundcrystal_music_player.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/6s_origami_glider.html';">Next Project > </button>

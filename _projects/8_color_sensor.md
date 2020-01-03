@@ -18,3 +18,5 @@ The paint program was written in Processing and an Arduino helps us interface be
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/eAb-PJIaFRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/7_kinetic_sculpture.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/8_machine-gun-jetpack.html';">Next Project > </button>

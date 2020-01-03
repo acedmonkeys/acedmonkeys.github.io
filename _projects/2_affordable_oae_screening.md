@@ -26,3 +26,5 @@ The following video gives an overview of our project and activities in our first
 </div>
 
 If you have questions, comments, or specific interest in this project, please reach out through my email or to Elizabeth Johansen, our team advisor, at <a target="_top" href="mailto:elizabeth_johansen@olin.edu"><span class="normalfont">elizabeth_johansen@olin.edu</span></a>.
+
+<button class="next" onclick="window.location.href = '/projects/2_fairness_machine_learning.html';">Next Project > </button>

@@ -22,3 +22,5 @@ The CAD for this project was done in Solidworks.
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4427vN_ORGQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/6_e+m_fidget_spinner.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/7_kinetic_sculpture.html';">Next Project > </button>

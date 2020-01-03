@@ -32,3 +32,5 @@ Below is a video of an initial test run of our hand.
 </div>
 
 The CAD for this project was done in Autodesk Fusion 360.
+
+<button class="prev" onclick="window.location.href = '/projects/2_fairness_machine_learning.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/4_community_food_assemblies.html';">Next Project > </button>

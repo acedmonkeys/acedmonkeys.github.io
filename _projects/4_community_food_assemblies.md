@@ -22,3 +22,5 @@ Below are a few posters detailing our vision, including some personas we made to
   <img class="quint_p myImages" id="myImg" src="/imgs/uocd_specifications.png">
   <img class="quint_p myImages" id="myImg" src="/imgs/uocd_journey.png">
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/2_robot_hand.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/5_soundcrystal_music_player.html';">Next Project > </button>

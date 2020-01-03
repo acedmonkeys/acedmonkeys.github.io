@@ -13,10 +13,12 @@ This was a project for Introduction to Mechanical Prototyping. Our team of 6 wor
 
 The cams were 3D-printed, as was the base structure of the boat. We made use of a laser cutter to cut the moving waves and silhouettes of the boat riders. A shopbot was used to cut the wooden pieces for the box and stand of the sculpture. Other parts were either COTS or machined in the shop using the mill.
 
-All CAD for this sculpture was done in Solidworks. 
+All CAD for this sculpture was done in Solidworks.
 
 Our sculpture in motion can be seen in the video below.
 
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zGNJS_HL5ls?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/6s_origami_glider.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/8_color_sensor.html';">Next Project > </button>

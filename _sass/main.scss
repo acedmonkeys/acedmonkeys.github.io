@@ -90,6 +90,37 @@ nav a{
   display: none;
 }
 
+/*PROJECTS*/
+.next {
+  float: right;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 35px 10px 35px;
+  font-family: Lato;
+  text-align: center;
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.prev {
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px 10px 20px;
+  font-family: Lato;
+  text-align: center;
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
 /*ABOUT*/
 th, td {
   padding-right: 15px;

@@ -17,3 +17,5 @@ You can find the full assignment <a class="normalfont" target="_blank" href="/im
 </div>
 
 This assignment was designed for use in the next iteration of the Olin College Machine Learning course.
+
+<button class="prev" onclick="window.location.href = '/projects/2_affordable_oae_screening.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/2_robot_hand.html';">Next Project > </button>

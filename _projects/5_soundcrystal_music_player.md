@@ -24,3 +24,5 @@ Below are two videos showing the SoundCrystal in action.
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CbOfsQfKXeE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<button class="prev" onclick="window.location.href = '/projects/4_community_food_assemblies.html';"> < Previous Project</button><button class="next" onclick="window.location.href = '/projects/6_e+m_fidget_spinner.html';">Next Project > </button>
