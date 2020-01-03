@@ -2,5 +2,31 @@
 layout: default
 title: Home
 ---
-<h2>welcome</h2>
-<p>this website is functional, but under construction (not unlike its eponym)</p>
+<div class="left_column">
+  {% for post in site.posts limit: 1 %}
+    <h1 class="lightfont"> {{ post.title }}</h1>
+    <h2 class="lightfont"> {{ post.date | date_to_long_string }}</h2>
+    {{ post.content }}
+  {% endfor %}
+
+  <button class="next" onclick="window.location.href = '/blog.html';">View More Posts</button>
+</div>
+
+<div class="right_column">
+  <div class="container">
+    <a target="_blank" href="https://photos.app.goo.gl/ceqr3SCJWe4iwQ1y8">
+      <img class="homephoto" id="myImg" src="https://lh3.googleusercontent.com/riItjegXzsYhlhdiUAu4CCuQvxNBQJ9Tp7Ukc00sPcnGbLyhyLTLw-2bnOKFvF7Ju24Ah6xCxvVzcypqCtJCuSpH2K1FGFh0GVIZPyDLlnjgpCrxQi2FGjMdYR8h4Md-kVZwOY1ab61SQku2wR9vlXNFF59mPh-3oOG4-aalnpjzb5l7xKYv-ZsN3USajSqj_zFihY6K0eOjVL6nKyCsPAD_j59c2dSRlK0GldE18Mx_vWsfW9NIjKvp58Nv-mIZMDv4ghhFyCny5uRpotQN-fHbImh1wVkDXN4exYWxbSEPiSmD2HxZj5AfhCIzkD1Fa8jWWY7sHJSO5-WRgiFq4LrcKSb5bHIK5RapeJGKTGzmRV16BpldL-4xjEz2wXU3FrtSOTlPuyts0Jt4DbvWJyIvGuBvIyKffQ2MJn6khA9k09pKJa5XMP5GOkuYXDfYjXDOmwzJW7AtR-ccpmCFCHLwcf5OL6GuCwNAE1c8ymrr2T96X6344qqtshu2c0t9DotBJH_P6wYnjCZTm1BT2FPKIy1VzhtUmYFdneOEfziFbTLMHdsO3EvfTRXGptwnDi83H2xYxsBxGtx6OLWAtAwoT6JfuZivfOH3cZFCuseiAKm8ZmP0sp2vcQAraHsJjRFM72f4bamsRLQ9Uc1P0GTFt_kidWd6nx7a-Vg4xxm_Q4yjDYG-mFdsxhWzWRtiiyNFTe-W281csk_q-4SlXiOMfsXW5wlVLtOExB2vwsaZr5l2gw=w1214-h911-no">
+      <div class="middle">
+        <div class="text">Around Olin</div>
+      </div>
+    </a>
+  </div>
+  <div class="container">
+    <a target="_blank" href="https://photos.app.goo.gl/N9CWibywtHJR43xn8">
+      <img class="homephoto" id="myImg" src="https://lh3.googleusercontent.com/NqN9il7wzuR7_uXq3WplwvdiB_c4aWKqyLY7De0Prv39fkybJLRJ_spfCvOMaoAfH9zoQ0f6QiTv4Aajnf7IcEeQaohkMYnIQIMZWO-aDga4o3eEApfPOxqRZtlbak08hYztXpsADnTNCDVzbtcR5PPcASPAeLtjdZjUDbDVI25jfWFmtoeQAB2kQR47-RYk4Tdxkrc_U4HbK5PBpmnqElHzsL2J2aUM8ZoRC2TAlpzSO1wbrKJ0B3sHR8RtCQCnJlo9b37ePcxlMICwud8DINAiOuDnuUnJSMtp5IIqc4zLNmphtmHNp8rBPIs-m_IAO0MQbGqWoZCBpyz1vyGMG79JmntGzq3xum-qx3pOwKDI3eMhabCrVtKcNT8WUs9bnTJ_gESZCXhAO1Q4g7P94zvHy8xLSd0D5nVfKssvxzhWNVb4z8lzqV6OHhavAi4qBSYdgcjKwieoC2JIxUGmPEBpZOXNDy5gju-Efy2J2stkwRMWfZKYYc5F_aQ8pRe8uexYThIx1-eErUYTCfHLGx1zMh77U45ynGWbrUNKQMSSFnY5c7lbb89I93C_jS1vTYGxhc8w-VmZp0r7LGOPojcc5SB9Y1X0YKXX656dPYtpWvQUe50qNeSPuY6touUEDh9NmMzHAPJKe1_7ZvNnnenAkmLrYUu_bBvYCE5vwUAJDv2HFZs8KZgMw0JE_r7grAwN1fJqziZs5lPakOh1JcStRd2LjMII-gP2j6YmPWLfLnLJcQ=w1214-h810-no">
+      <div class="middle">
+        <div class="text">A Semester in Budapest</div>
+      </div>
+    </a>
+  </div>
+</div>
