@@ -5,8 +5,8 @@ title: Home
 <div class="left_column">
   {% for post in site.posts limit: 1 %}
     <h1> {{ post.title }}</h1>
-    <h2 class="lightfont"> {{ post.subtitle }}</h2>
-    <h3 class="lightfont"> {{ post.date | date_to_long_string }}</h3>
+    <h2 class="lightfont"><font color="777777">{{ post.subtitle }}</font></h2>
+    <h3 class="lightfont"><font color="bfbfbf">{{ post.date | date_to_long_string }}</font></h3>
     {{ post.content }}
   {% endfor %}
 
