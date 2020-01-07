@@ -44,9 +44,9 @@ Well, there were a few departures from routine. I went to three concerts: I watc
 
 Even with these events, equilibrium was easy to maintain, and time passed steadily.
 
-##Looking Ahead
+## Looking Ahead
 As mentioned, I have a few goals moving forward.
 - To write more, whether in the form of a blog post, journal entry, essay, or otherwise.
-- To strengthen my connections with other people through action. Making a few more cards this year, and keeping up correspondences: asking people how they are and letting them know how I'm doing. 
+- To strengthen my connections with other people through action. Making a few more cards this year, and keeping up correspondences: asking people how they are and letting them know how I'm doing.
 - To step further away from social media and instantly gratifying things. I don't think it's appropriate for me to completely forgo social media, as its too influential a force to ignore, but I think it would be healthy for me to distance myself with that venue of communication.
 - To continue to read more books and writings.
