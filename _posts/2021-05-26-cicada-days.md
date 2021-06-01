@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  
-subtitle:
+title:  cicada days
+subtitle: three brief thoughts
 ---
 in late may, 2021, an insistent, monotone, almost electronic hum in the air indicates uncountable amounts of cicada sex. and it is "sex", not rote-scientific-clinical "reproduction", not wrinkle-your-nose-to-distance-yourself "copulation", and I know too little or give too little credit to cicadas to call it "love-making". but it is "sex", at the very least: the climax (haha) of a seventeen-year long journey-- emerging from the tree, tunneling through the earth, re-emerging twice over, once from the ground, then again from a shell, flicking out four delicate wings, and maybe, finally, having sex.
 
