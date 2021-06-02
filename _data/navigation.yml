@@ -1,5 +1,3 @@
-- name: About
-  link: /about.html
 - name: Portfolio
   link: /portfolio.html
 - name: Resume
