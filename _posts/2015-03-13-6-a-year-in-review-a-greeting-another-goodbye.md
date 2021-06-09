@@ -18,3 +18,5 @@ Right now I want to hold on to you as tightly as I can. I will not let myself fo
 And the worst part is, I can see you now, crying and shaking, because you were that kind of emotional person. I miss you so much.
 
 I love you.
+
+<button class="prev" onclick="window.location.href = '/2014/03/12/In-Memory.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/2016/03/14/7-septembers-end.html';">Next Post > </button>

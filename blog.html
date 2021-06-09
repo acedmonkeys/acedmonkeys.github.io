@@ -6,8 +6,11 @@ title: Writing
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}"> {{ post.title }} </a></h2>
-      <h3 class="lightfont"><font color="bfbfbf">{{post.date | date_to_long_string }}</font></h3>
-      <p> {{ post.subtitle }} </p>
+      <h3 class="lightfont"><font color="494949">{{post.date | date_to_long_string }}</font></h3>
+      <h4 class="lightfont"><font color="7a7a7a"> {{ post.subtitle }} </h4>
+      <p><font color = "9a9a9a">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}
+      </p>
     </li>
   {% endfor %}
 </ul>
