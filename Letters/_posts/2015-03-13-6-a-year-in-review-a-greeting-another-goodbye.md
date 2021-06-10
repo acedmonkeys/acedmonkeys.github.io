@@ -20,4 +20,4 @@ And the worst part is, I can see you now, crying and shaking, because you were t
 
 I love you.
 
-<button class="prev" onclick="window.location.href = '/Letters/2014/03/12/In-Memory.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/Letters/2016/03/14/7-septembers-end.html';">Next Post > </button>
+<button class="prev" onclick="window.location.href = '/letters/2014/03/12/In-Memory.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/letters/2016/03/14/7-septembers-end.html';">Next Post > </button>

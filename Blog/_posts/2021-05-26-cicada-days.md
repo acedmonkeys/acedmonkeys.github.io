@@ -10,4 +10,4 @@ starting at the base of a tree, working its way up a heavy trunk, is a surplus o
 
 a cicada's flight is heavy, laborious, as its 4 wings struggle to lift its substantial body through the air. still, there's something joyful about it, the joy of firsts, the joy of flight, of being given air, and so much of it, at the end of a life lived underground.
 
-<button class="prev" onclick="window.location.href = '/Blog/2020/04/27/red-string.html';"> < Previous Post</button>
+<button class="prev" onclick="window.location.href = '/blog/2020/04/27/red-string.html';"> < Previous Post</button>

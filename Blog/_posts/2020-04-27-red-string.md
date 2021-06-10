@@ -60,4 +60,4 @@ In math, once we have the definitions, we know what qualities of objects we are 
 
 I think I do.  
 
-<button class="next" onclick="window.location.href = '/Blog/2021/05/26/cicada-days.html';">Next Post > </button>
+<button class="next" onclick="window.location.href = '/blog/2021/05/26/cicada-days.html';">Next Post > </button>

@@ -26,4 +26,4 @@ one thing’s for sure. i’ll write you a letter every year. i hate that it fee
 
 i love you.
 
-<button class="prev" onclick="window.location.href = '/Letters/2015/03/13/6-a-year-in-review-a-greeting-another-goodbye.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/Letters/2017/03/12/8.html';">Next Post > </button>
+<button class="prev" onclick="window.location.href = '/letters/2015/03/13/6-a-year-in-review-a-greeting-another-goodbye.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/letters/2017/03/12/8.html';">Next Post > </button>
