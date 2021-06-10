@@ -2,6 +2,7 @@
 layout: post
 title: red string
 subtitle: how do you know if you love something?
+categories: Blog
 ---
 A theorem in mathematics is often a conditional statement, coming in the form of “if, then”.
 
@@ -59,4 +60,4 @@ In math, once we have the definitions, we know what qualities of objects we are 
 
 I think I do.  
 
-<button class="prev" onclick="window.location.href = '/2020/03/12/11.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/2021/03/13/12.html';">Next Post > </button>
+<button class="next" onclick="window.location.href = '/Blog/2021/05/26/cicada-days.html';">Next Post > </button>

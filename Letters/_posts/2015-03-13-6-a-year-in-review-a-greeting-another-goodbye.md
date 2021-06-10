@@ -2,6 +2,7 @@
 layout: post
 title:  6 - a year in review, a greeting, another goodbye
 subtitle: year 6, letter 2, 3:09 AM
+categories: Letters
 ---
 It’s been another year since you left us. A lot has changed, a lot has stayed the same.
 
@@ -19,4 +20,4 @@ And the worst part is, I can see you now, crying and shaking, because you were t
 
 I love you.
 
-<button class="prev" onclick="window.location.href = '/2014/03/12/In-Memory.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/2016/03/14/7-septembers-end.html';">Next Post > </button>
+<button class="prev" onclick="window.location.href = '/Letters/2014/03/12/In-Memory.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/Letters/2016/03/14/7-septembers-end.html';">Next Post > </button>

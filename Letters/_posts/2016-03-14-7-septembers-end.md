@@ -2,6 +2,7 @@
 layout: post
 title:  7 (september's end)
 subtitle: year 7, letter 3, 3:08 am
+categories: Letters
 ---
 i remember after you passed, i turned to music to help me cope. green day was one of those bands, and they had a song, wake me up when september ends. and that song had a line:
 
@@ -25,4 +26,4 @@ one thing’s for sure. i’ll write you a letter every year. i hate that it fee
 
 i love you.
 
-<button class="prev" onclick="window.location.href = '/2015/03/13/6-a-year-in-review-a-greeting-another-goodbye.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/2017/03/12/8.html';">Next Post > </button>
+<button class="prev" onclick="window.location.href = '/Letters/2015/03/13/6-a-year-in-review-a-greeting-another-goodbye.html';"> < Previous Post</button><button class="next" onclick="window.location.href = '/Letters/2017/03/12/8.html';">Next Post > </button>
