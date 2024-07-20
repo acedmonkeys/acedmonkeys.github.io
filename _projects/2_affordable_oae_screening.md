@@ -37,4 +37,5 @@ In our second semester, we continued to develop our connections. We also formed 
 
 If you have questions, comments, or specific interest in this project, please reach out through my email or to Elizabeth Johansen, our team advisor, at <a target="_top" href="mailto:elizabeth_johansen@olin.edu"><span class="normalfont">elizabeth_johansen@olin.edu</span></a>.
 
+<button class="prev" onclick="window.location.href = '/projects/0_connectivity_wod_studio.html';"> < Previous Project
 <button class="next" onclick="window.location.href = '/projects/2_fairness_machine_learning.html';">Next Project > </button>
