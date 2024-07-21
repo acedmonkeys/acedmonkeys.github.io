@@ -1,5 +1,5 @@
 ---
-name: Connectivity and the W&OD Trail in Northern Virginia
+name: Making Connections: Transportation and Data Centers in Northern Virginia
 time_frame: Spring 2024
 institution: University of Virginia
 ---
