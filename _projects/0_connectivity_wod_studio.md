@@ -1,9 +1,9 @@
 ---
-name: Making Connections: Transportation and Data Centers in Northern Virginia
+name: Making Connections in Northern Virginia
 time_frame: Spring 2024
 institution: University of Virginia
 ---
-This work was done as part of the Spring 2024 Urban and Environmental Planning and Design Studio, led by Professor Ali Fard.
+This work was done as part of the Spring 2024 Urban and Environmental Planning and Design Studio.
 
 We began by looking at mobility and transportation in and around the Washington and Old Dominion (W&OD) bike trail, converted from the old W&OD railroad. This report gives an overview of the major lines of transportation along the bike trail.
 
@@ -34,4 +34,5 @@ Within the industry, these data centers are estimated to have a lifespan of some
 <img class="myImages center" id="myImg" width="650px" src="/imgs/studio_futureofdc.png">
 The full size poster can be found <a class="normalfont" target="_blank" href="/imgs/studio_futureofdc.pdf">here</a>.
 
-<button class="next" onclick="window.location.href = '/projects/2_affordable_oae_screening.html';">Next Project > </button>
+<button class="prev" onclick="window.location.href = '/projects/0_bees.html';"> < Previous Project
+<button class="next" onclick="window.location.href = '/projects/0_cvilletulips.html';">Next Project > </button>
