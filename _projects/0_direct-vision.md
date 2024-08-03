@@ -35,4 +35,6 @@ As a result of the measurements taken of the vehicles, blind zone polygons were 
   <img class="double_p myImages" id="myImg" width="360px" src="/imgs/VehicleFamiliesBlindZones-1.png">
 </div>
 
+Additional information about the Direct Vision study can be found <a class="normalfont" target="_blank" href="https://www.mass.gov/info-details/direct-vision-study">here</a>.
+
 <button class="next" onclick="window.location.href = '/projects/1_bees.html';">Next Project > </button>
