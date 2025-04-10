@@ -9,7 +9,7 @@ The goal of this report is to establish a participatory framework that enables V
 
 The settler state planning project is one that instrumentalizes and disaggregates land along with what resides and exists on it into elements that can be conceived of socially as private property, such that it can be entered into an economic system in which profit can be accumulated from it.
 
-In addition to writing the 'Background' section of this report, I performed the editing, formatting, and layout. The full pdf can be found <a class="normalfont" target="_blank" href="/imgs/Cambridge Report Card.pdf">here</a>.
+In addition to writing the 'Background' section of this report, I performed the editing, formatting, and layout. The full pdf can be found <a class="normalfont" target="_blank" href="/imgs/Collaborative Report.pdf">here</a>.
 
 <div class="oohbaby">
   <img class="myImages center" id="myImg" width="375px" src="/imgs/Collaborative Report_Page_01.png">
