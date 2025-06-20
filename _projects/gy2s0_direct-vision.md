@@ -3,7 +3,7 @@ name: Direct Vision in Massachusetts
 time_frame: Summer 2024
 institution: The Lab @ MassDOT
 ---
-This work was done as part of a summer fellowship at <a class="normalfont" target="_blank" href="https://www.mass.gov/the-lab-massdot">The Lab @ MassDOT</a> to support the work they are doing following the Commonwealth of Massachusetts Direct Vision Study.
+<img class="myImages center" id="myImg" width="375px" src="/imgs/CambridgeRC-01.png">
 
 Direct vision is what a driver can see with their own eyes, without the aid of mirrors, cameras, or sensors. What a driver can see with mirrors, cameras and sensors is referred to as indirect vision. The areas a driver cannot see are referred to as the blind zone. The reason for highlighting direct vision in particular is that drivers have faster reaction times and memory of things they see in their direct vision, rather than things that only appear in indirect vision. Indirect vision is also related to the blind zone in that the more blind zone you have, the more area you have to compensate for with indirect vision.  
 
@@ -12,8 +12,6 @@ This work fits into the ‘safe vehicles’ component of the Safe System approac
 My work this summer was aimed at developing 'report cards' for the 10 Massachusetts municipalities that allowed The Lab to measure their fleet vehicles for the study. These 'report cards' aimed to make direct vision in their fleet and the results of the study understandable, useful, and actionable, and were unique for each fleet. A sample report card for the city of Cambridge is displayed below, and the full pdf can be found <a class="normalfont" target="_blank" href="/imgs/Cambridge Report Card.pdf">here</a>.
 
 <div class="oohbaby">
-  <img class="myImages center" id="myImg" width="375px" src="/imgs/CambridgeRC-01.png">
-  <br>
   <img class="quint_p myImages" id="myImg" src="/imgs/CambridgeRC-02.png">
   <img class="quint_p myImages" id="myImg" src="/imgs/CambridgeRC-03.png">
   <img class="quint_p myImages" id="myImg" src="/imgs/CambridgeRC-04.png">
@@ -38,4 +36,4 @@ As a result of the measurements taken of the vehicles, blind zone polygons were 
 Additional information about the Direct Vision study can be found <a class="normalfont" target="_blank" href="https://www.mass.gov/info-details/direct-vision-study">here</a>.
 
 <button class="prev" onclick="window.location.href = '/projects/gy1s2_redlining_urban_heat.html';"> < Previous Project
-<button class="next" onclick="window.location.href = '/projects/gy2s1_connectivity_wod_studio.html';">Next Project > </button>
+<button class="next" onclick="window.location.href = '/projects/gy2s1_bees.html';">Next Project > </button>
